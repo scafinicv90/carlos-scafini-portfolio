@@ -15,7 +15,7 @@ I build structured systems combining:
 ### ⚽ Scouting Database System
 Relational scouting database built with Google Sheets + future Python automation.
 
-Repo: [scouting-database-system](https://github.com/TU_USUARIO/scouting-database-system)
+Repo: [scouting-database-system](https://github.com/scafinicv90/scouting-database-system)
 
 ---
 
